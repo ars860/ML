@@ -1,0 +1,8 @@
+kursach
+.idea
+pybind
+TorchCoder
+cmake-build-debug
+labs/Bayes/dataset/*
+labs/CNN/datasets/*
+venv
